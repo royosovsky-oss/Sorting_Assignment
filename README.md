@@ -2,8 +2,8 @@
 Data Structures Course - Python_HW_1
 
 **Students:**
-* Name: רועי אוסובסקי
-* Name: איתמר גרשון
+* Name:  רועי אוסובסקי
+* Name:  איתמר גרשון
 
 **Course:** Data Structures (Spring 2026)
 
