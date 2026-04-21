@@ -54,7 +54,7 @@ The running times changed drastically depending on the algorithm's adaptability 
 
 ## Additional Analysis for fun: (20% Noise Level):
 
-![Runtime Comparison (Nearly Sorted, 20%)](additional_plots/result_noise_20.png)
+![Runtime Comparison (Nearly Sorted, 20%)](Additional_Plots/result_noise_20.png)
 
 ### Analysis of The Results (20% Noise):
 When we increased the noise level to 20%, we can clearly observe the limitations of Insertion Sort's adaptability.
